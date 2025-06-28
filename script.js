@@ -6,7 +6,7 @@ let isGenerating = false;
 
 const API_CONFIG = {
     'workers-api': {
-        url: 'https://voice.244224659.xyz/tts',
+        url: 'https://voice.084444.xyz/tts',
         authToken: 'BlankSpace'
     },
     'deno-api': {
